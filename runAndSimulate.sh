@@ -1,0 +1,1 @@
+cordova prepare; cordova emulate ios; open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app; sleep 2 ; osascript /Users/ivano/Documents/Development/CordovaProjects/openSafariDebugger.scpt
